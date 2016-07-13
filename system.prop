@@ -1,5 +1,5 @@
 #
-# system.prop for cherry x300
+# system.prop for Flare S3 Power
 #
 service.adb.root=1
 ro.sf.lcd_density=320
